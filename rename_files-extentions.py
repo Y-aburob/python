@@ -1,4 +1,4 @@
-# Now i'm going to show you a program that renames the files and extentions, it will ask you for the cwdir url at the first
+# Now i'm going to show you a program that renames the files and thier extensions, it will ask you for the cwdir url at the first
 # then it will ask you if you want to rename them one by one or rename them all togather(the same name with a counter)
 
 
